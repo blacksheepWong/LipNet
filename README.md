@@ -1,7 +1,7 @@
-# LipNet: End-to-End Sentence-level Lipreading
+# LipNet: End-to-End Sentence-level Lip:reading
 Keras implementation of the method described in the paper 'LipNet: End-to-End Sentence-level Lipreading' by Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, and Nando de Freitas (https://arxiv.org/abs/1611.01599).
 
-![LipNet performing prediction (subtitle alignment only for visualization)](assets/lipreading.gif)
+[LipNet performing prediction (subtitle alignment only for visualization)](assets/lipreading.gif)
 
 ## Results
 |       Scenario          | Epoch |  CER  |  WER  |  BLEU |
